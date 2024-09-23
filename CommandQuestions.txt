@@ -1,0 +1,49 @@
+## 1. Write a list of Linux commands that you used in this assignment and what each one is used for.
+
+# 'pwd' - Print Working Directory, a command that displays the pathname of the current directory.
+
+# 'mkdir homework' - In the homework, this command was used to create a new directory called "homework"
+
+# 'cd homework' - A command used to change directories, which in this case, change into a directory named "homework"
+
+# 'ls -ltr' - A command designed to list the names and features of files and directories, which was used in the homework to display contents of "homework"
+
+# 'cat' - A command used to display/print the file to standard output (screen).
+
+## 2. Write a list of git commands that you used in this assignment and what each one is used for.
+
+# 'git config --global user.email' - A function used to set Git configuration values on your project, this command is used to sign into github with your email
+
+# 'git config --global user.name' -  A function for Git configuration, used to set your full name.
+
+# 'git clone' - copies an existing Git repository, for the homework I copied the files from github to the terminal.
+
+# 'git status' - Check status of your local repository.
+
+# 'git add' - adds files to the list of files in your repository.
+
+# 'git status' - Displays current status of your repository.
+
+# 'git commit' - Commits changes to repository (only files selected by git add)
+
+# 'git push' - Used to upload local repository content to the remote repository.
+
+## 3. Read the syllabus and answer the following questions
+
+# i. List the rules for collaboration on homework assignments.
+
+# "To ensure academic honest, please include your sources (and names of fellow students with whome you brainstormed)
+# as a separate document, to be submitted with each assignment.
+
+# ii. List the rules for consluting external references for homework assignments.
+
+# Same rules for collaboration on homework assignments apply when using external references on homework assignments, on a separate document, site your sources. 
+
+# iii. What is the penalty for submitting late assignments?
+
+# Penalty of 10% per day for submitting late assignments.
+
+# iiii. What is the penalty for missing classes?
+
+# Fall behind in class. Participation & Attendance is worth 5% of your final grade.
+
