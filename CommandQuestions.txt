@@ -45,4 +45,5 @@
 
 # iiii. What is the penalty for missing classes?
 
+# Fall behind in class. Participation & Attendance is worth 5% of your final grade.
 
